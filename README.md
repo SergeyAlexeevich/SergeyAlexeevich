@@ -26,14 +26,11 @@ Open to projects in:
 <details>
   <summary>💻 <strong>My project</strong></summary>
   
-  <a href="https://github.com/SergeyAlexeevich/Vector">Vector</a>  
-  This is a custom implementation of a dynamic array, similar to std::vector, providing strong exception safety guarantees.
+  <a href="https://github.com/SergeyAlexeevich/Vector">Vector</a> - This is a custom implementation of a dynamic array, similar to std::vector, providing strong exception safety guarantees.
   
-  <a href="https://github.com/SergeyAlexeevich/Bookypedia">Bookypedia</a>  
-  A console application that allows storing book information in a Postgres database. The program supports three tables: Authors, Books, and Tags. The libpqxx library is used as an SQL client.
+  <a href="https://github.com/SergeyAlexeevich/Bookypedia">Bookypedia</a> - A console application that allows storing book information in a Postgres database. The program supports three tables: Authors, Books, and Tags. The libpqxx library is used as an SQL client.
   
-  <a href="https://github.com/SergeyAlexeevich/Game_Dog_Story">Dogs Story</a>  
-  An online game where brave dog detectives rescue lost items of city residents! The game features a simple and intuitive interface, several maps to choose from, and a competitive mode.
+  <a href="https://github.com/SergeyAlexeevich/Game_Dog_Story">Dogs Story</a> - An online game where brave dog detectives rescue lost items of city residents! The game features a simple and intuitive interface, several maps to choose from, and a competitive mode.
 </details>
 
 
