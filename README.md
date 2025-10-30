@@ -26,8 +26,7 @@ Open to projects in:
 <details>
 <summary>💻 **My project**</summary>
 <details>
- <summary> - Vector</summary>
-  — это пользовательская [реализация](https://github.com/SergeyAlexeevich/Vector) динамического массива, аналогичная std::vector, обеспечивающая строгую гарантию безопасности исключений.
+ <summary> Vector</summary> — это пользовательская [реализация](https://github.com/SergeyAlexeevich/Vector) динамического массива, аналогичная std::vector, обеспечивающая строгую гарантию безопасности исключений.
 </details>
 
 
