@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there! I’m Sergey. 👋
 
-<!--
-**SergeyAlexeevich/SergeyAlexeevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Current work**  
+As an engineer, I focus on:  
+- Developing and configuring hardware devices.  
+- Building desktop applications on Astra Linux to optimize development processes.
 
-Here are some ideas to get you started:
+🌱 **Learning journey**  
+Currently mastering:  
+- Advanced C++ programming techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 **Collaboration interests**  
+Open to projects in:  
+- Embedded systems development.  
+- Linux‑based application engineering.
+
+📫 **Get in touch**  
+- 📧 [**Email**](mailto:Smirnov-Serega90@mail.ru)  
+- 📱 [**Telegram**](https://t.me/SmSergAlex)
+
+💼 **My resume**  
+- [**HeadHunter**](https://hh.ru/resume/8a9c4de9ff0f83ea410039ed1f58524d446641)  
+- [**HabrCareer**](https://career.habr.com/smsergalex)  
+- [**SuperJob**](https://www.superjob.ru/resume/backend-razrabotchik-55993653.html)
