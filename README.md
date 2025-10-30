@@ -24,21 +24,22 @@ Open to projects in:
 - [**SuperJob**](https://www.superjob.ru/resume/backend-razrabotchik-55993653.html)
 
 <details>
-  <summary>💻 **My projects**</summary>
+  <summary>💻 **My project**</summary>
 
   <details>
     <summary>Vector</summary>
-    A custom [implementation](https://github.com/SergeyAlexeevich/Vector) of a dynamic array, similar to `std::vector`, providing strong exception safety guarantees.
+    This is a custom [implementation](https://github.com/SergeyAlexeevich/Vector) of a dynamic array, similar to std::vector, providing strong exception safety guarantees.
   </details>
 
   <details>
     <summary>Bookypedia</summary>
-    A console [application](https://github.com/SergeyAlexeevich/Bookypedia) for storing book information in a PostgreSQL database. The program supports three tables: Authors, Books, and Tags. It uses the `libpqxx` library as an SQL client.
+    A console [application](https://github.com/SergeyAlexeevich/Bookypedia) that allows storing book information in a Postgres database. The program supports three tables: Authors, Books, and Tags. The libpqxx library is used as an SQL client.
   </details>
 
   <details>
     <summary>Dogs Story</summary>
-    An online [game](https://github.com/SergeyAlexeevich/Game_Dog_Story) where brave dog detectives rescue lost items of city residents! The game features a simple and intuitive interface, multiple maps to choose from, and a competitive mode.
+    An online [game](https://github.com/SergeyAlexeevich/Game_Dog_Story) where brave dog detectives rescue lost items of city residents! The game features a simple and intuitive interface, several maps to choose from, and a competitive mode.
   </details>
+
 </details>
 
