@@ -26,18 +26,18 @@ Open to projects in:
 <details>
 <summary>💻 **My project**</summary>
 <details>
- - <summary>Vector</summary>
+ <summary> - Vector</summary>
   — это пользовательская [реализация](https://github.com/SergeyAlexeevich/Vector) динамического массива, аналогичная std::vector, обеспечивающая строгую гарантию безопасности исключений.
 </details>
 
 
 <details>
- - <summary>Bookypedia</summary>
+<summary> - Bookypedia</summary>
   — консольная [программа](https://github.com/SergeyAlexeevich/Bookypedia), которая позволяет хранить информацию о книгах в БД Postgres. В программе реализована поддержка трех таблиц: Авторы, Книги, Теги. В качестве SQL-клиента используется библиотека libpqxx.
 </details>
 
 <details>
- - <summary>Dogs Story</summary>
+ <summary> - Dogs Story</summary>
   — онлайн [игра]( https://github.com/SergeyAlexeevich/Game_Dog_Story), в которой отважные псы-детективы спасают потерянные вещи горожан! Игра имеет простой и понятный интерфейс, несколько карт на выбор и соревновательный режим.
 </details>
 
