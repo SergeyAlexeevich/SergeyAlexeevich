@@ -23,10 +23,8 @@ Open to projects in:
 - [**HabrCareer**](https://career.habr.com/smsergalex)  
 - [**SuperJob**](https://www.superjob.ru/resume/backend-razrabotchik-55993653.html)
 
-💻
+### 💻 **My project**
 <details>
-  <summary> **My project**</summary>
-
   <details>
     <summary>***Vector***</summary>
     This is a custom [implementation](https://github.com/SergeyAlexeevich/Vector) of a dynamic array, similar to std::vector, providing strong exception safety guarantees.
