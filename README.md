@@ -25,8 +25,8 @@ Open to projects in:
 
 <details>
   <details>
-    <summary>💻 **My project**</summary>summary>
-    <summary>[Vector](https://github.com/SergeyAlexeevich/Vector)</summary>
+    <summary>💻 **My project**</summary>
+    [Vector](https://github.com/SergeyAlexeevich/Vector)
     This is a custom implementation of a dynamic array, similar to std::vector, providing strong exception safety guarantees.
   </details>
 
